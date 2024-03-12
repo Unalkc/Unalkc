@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
+![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
 <h1 align="center">Hi 👋, I'm Ünal</h1>
 <h3 align="center">Full-Stack Developer from Turkey</h3>
 
